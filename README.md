@@ -32,4 +32,4 @@ Fork join_none https://www.edaplayground.com/x/Jyte
 Inheritance and Polymorphism EX1 https://www.edaplayground.com/x/tNbp
 Inheritance without polymorphism EX2 https://www.edaplayground.com/x/bi2c
 Inheritance with polymorphism EX3 https://www.edaplayground.com/x/h7pU
-Inheritance - overriding existing https://www.edaplayground.com/x/L4SR
+Inheritance - overriding existing method https://www.edaplayground.com/x/L4SR
