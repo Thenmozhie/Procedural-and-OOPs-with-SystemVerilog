@@ -17,3 +17,7 @@ Random data in array https://www.edaplayground.com/x/QD8e
 
 Function EX1 https://www.edaplayground.com/x/BFSP
 EX2 https://www.edaplayground.com/x/jeAY
+
+Task EX1 https://www.edaplayground.com/x/wzWe
+EX2 https://www.edaplayground.com/x/6Spu
+
