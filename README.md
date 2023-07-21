@@ -11,4 +11,6 @@ Reset generation with 1 signal https://www.edaplayground.com/x/8VU2
 
 Generate even/odd/onehot random numbers with Verilog https://www.edaplayground.com/x/Qgqb
 
-Loop: for,foreach,repeat https://www.edaplayground.com/x/fKwT
+Repetative operation: Loop: for,foreach,repeat https://www.edaplayground.com/x/fKwT
+
+Random array generation https://www.edaplayground.com/x/QD8e
