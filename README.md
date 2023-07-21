@@ -14,3 +14,6 @@ Generate even/odd/onehot random numbers with Verilog https://www.edaplayground.c
 Repetative operation: Loop: for,foreach,repeat https://www.edaplayground.com/x/fKwT
 
 Random data in array https://www.edaplayground.com/x/QD8e
+
+Function EX1 https://www.edaplayground.com/x/BFSP
+EX2 https://www.edaplayground.com/x/jeAY
