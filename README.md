@@ -39,3 +39,5 @@ Abstract class https://www.edaplayground.com/x/dZwT
 Constraint: Dynamic array https://www.edaplayground.com/x/6xph
 
 rand_mode: https://www.edaplayground.com/x/sA7a
+
+dist_constraint https://www.edaplayground.com/x/XFs5
