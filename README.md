@@ -37,3 +37,5 @@ Inheritance - overriding existing method https://www.edaplayground.com/x/L4SR
 Abstract class https://www.edaplayground.com/x/dZwT
 
 Constraint: Dynamic array https://www.edaplayground.com/x/6xph
+
+rand_mode: https://www.edaplayground.com/x/sA7a
