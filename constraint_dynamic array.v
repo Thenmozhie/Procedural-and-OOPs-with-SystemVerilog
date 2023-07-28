@@ -11,7 +11,7 @@ endclass
 module constraint_test;
   
   initial begin
-   static packet pkt = new;
+    packet pkt = new;
     
    // pkt.randomize();
    
