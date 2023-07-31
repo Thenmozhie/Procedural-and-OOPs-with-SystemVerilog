@@ -33,7 +33,8 @@ Inheritance and Polymorphism EX1 https://www.edaplayground.com/x/tNbp
 Inheritance without polymorphism EX2 https://www.edaplayground.com/x/bi2c
 Inheritance with polymorphism EX3 https://www.edaplayground.com/x/h7pU
 Inheritance - overriding existing method https://www.edaplayground.com/x/L4SR
-data hiding and polymorphism : https://www.edaplayground.com/x/Jgx4
+
+data hiding and Encapsulation: https://www.edaplayground.com/x/Jgx4
 Abstract class https://www.edaplayground.com/x/dZwT
 
 Constraint: Dynamic array https://www.edaplayground.com/x/6xph
