@@ -44,3 +44,5 @@ Dynamic array new'ed in constructor and randomized without constraints on size  
 rand_mode: https://www.edaplayground.com/x/sA7a
 
 dist and randcase in constraint https://www.edaplayground.com/x/XFs5
+
+random stability https://www.edaplayground.com/x/LKw4
