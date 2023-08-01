@@ -37,7 +37,9 @@ Inheritance - overriding existing method https://www.edaplayground.com/x/L4SR
 data hiding and Encapsulation: https://www.edaplayground.com/x/Jgx4
 Abstract class https://www.edaplayground.com/x/dZwT
 
-Constraint: Dynamic array https://www.edaplayground.com/x/6xph
+experiments needed for dynamic array:
+Constraint:Dynamic array not new'ed only size is constrained  https://www.edaplayground.com/x/6xph
+Dynamic array new'ed in constructor and randomized without constraints on size  https://www.edaplayground.com/x/nFJa
 
 rand_mode: https://www.edaplayground.com/x/sA7a
 
