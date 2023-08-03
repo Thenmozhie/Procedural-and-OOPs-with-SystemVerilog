@@ -40,6 +40,7 @@ Abstract class https://www.edaplayground.com/x/dZwT
 experiments needed for dynamic array:
 Constraint:Dynamic array not new'ed only size is constrained  https://www.edaplayground.com/x/6xph
 Dynamic array new'ed in constructor and randomized without constraints on size  https://www.edaplayground.com/x/nFJa
+Dynamic array new'ed in constructor. Also size constrained with x. Use  size>x,size<x https://www.edaplayground.com/x/uCnT
 
 rand_mode: https://www.edaplayground.com/x/sA7a
 
