@@ -1,4 +1,6 @@
 # Procedural-and-OOPs-with-SystemVerilog
+Note: Under Tools and Simulation, uncheck "show output file after run"
+
 Usage of initial block https://www.edaplayground.com/x/TtRU
 
 Usage of always block https://www.edaplayground.com/x/7QvF
